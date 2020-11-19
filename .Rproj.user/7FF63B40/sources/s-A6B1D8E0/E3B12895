@@ -1,0 +1,24 @@
+{
+    "id": "E3B12895",
+    "path": "~/biomonika/config.toml",
+    "project_path": "config.toml",
+    "type": "toml",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1605471192111.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "23,20",
+        "scrollLine": "13"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1605619569,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1605807625416,
+    "read_only": false,
+    "read_only_alternatives": []
+}
